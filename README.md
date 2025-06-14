@@ -32,7 +32,7 @@ My research interest includes multi-modal understanding, multi-modal generation 
 
 
 
-## 🎖️ Honors and Awards
+## 🎉 Honors and Awards
 - **2023.06** Outstanding graduates from Sichuan Province, China.
 - **2022.10** National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
 - **2022.11** National First Prize of National Undergraduate Mathematical Modeling Contest.
