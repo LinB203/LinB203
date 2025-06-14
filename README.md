@@ -11,7 +11,7 @@ My research interest includes multi-modal understanding, multi-modal generation 
 - Personal Pages: 🌱 [Personal Pages](https://linb203.github.io). (updated recently🔥)
 - Google Scholar: 🔭 [Google Scholar](https://scholar.google.com/citations?user=GCOVDKoAAAAJ&hl=en).
 - Hugging Face: 🤗 [Hugging Face](https://huggingface.co/LanguageBind).
-- PKU Email：📫 linbin.ece@std.pku.edu.cn
+- PKU Email: 📫 linbin.ece@std.pku.edu.cn
 - Google Email：📫 linbin203279@gmail.com
 
 ## 🔥 News
