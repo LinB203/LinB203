@@ -4,10 +4,11 @@
 
 I am a **third-year Ph.D. candidate (expected: 2028)** of Computer Science at **[College of Electron and Computer Engineering](https://www.ece.pku.edu.cn/index.htm)**, **[Peking University (PKU)](https://www.pku.edu.cn/)**, advised by Prof. **[Li Yuan (PKU, 袁粒)](https://yuanli2333.github.io/)**. 
 
-My research interest includes multi-modal understanding, multi-modal generation and large unified model.
+My research interest includes multi-modal understanding, multi-modal generation and large unified model. <a href='https://scholar.google.com/citations?user=GCOVDKoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLinB203%2Flinb203.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+
 
 ## 🏠 Homepages
-- Personal Pages: 🌱 [Personal Pages](https://linb203.github.io/linbin.github.io/). (updated recently🔥)
+- Personal Pages: 🌱 [Personal Pages](https://linb203.github.io). (updated recently🔥)
 - Google Scholar: 🔭 [Google Scholar](https://scholar.google.com/citations?user=GCOVDKoAAAAJ&hl=en).
 - Huggingface: 🤗 [Huggingface home](https://huggingface.co/LanguageBind).
 - PKU Email：📫 linbin.ece@std.pku.edu.cn
