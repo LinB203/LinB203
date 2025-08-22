@@ -2,7 +2,7 @@
 
 
 
-I am a **second-year Ph.D. candidate (expected: 2028)** of Computer Science at **[College of Electron and Computer Engineering](https://www.ece.pku.edu.cn/index.htm)**, **[Peking University (PKU)](https://www.pku.edu.cn/)**, advised by Prof. **[Li Yuan (PKU, 袁粒)](https://yuanli2333.github.io/)**. 
+I am a **third-year Ph.D. candidate (expected: 2028)** of Computer Science at **[Peking University (PKU)](https://www.pku.edu.cn/)**, advised by Prof. **[Li Yuan (PKU, 袁粒)](https://yuanli2333.github.io/)**. 
 
 My research interest includes multi-modal understanding, multi-modal generation and large unified model. <a href='https://scholar.google.com/citations?user=GCOVDKoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLinB203%2Flinb203.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
@@ -42,7 +42,7 @@ My research interest includes multi-modal understanding, multi-modal generation 
 
 
 ## 📖 Educations
-- **2023.09 - now (expected: 2028)**, Ph.D. candidate, College of Electron and Computer Engineering, Peking University.
-- **2019.09 - 2023.06**, Undergraduate, College of Information Engineering, Sichuan Agricultural University.
+- **2023.09 - now (expected: 2028)**, Ph.D. candidate, Peking University.
+- **2019.09 - 2023.06**, Undergraduate, Sichuan Agricultural University.
 
 
